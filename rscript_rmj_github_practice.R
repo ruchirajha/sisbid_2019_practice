@@ -9,3 +9,5 @@
 
 # create a new textfile called "README.md"  from file--> new--> text file
 # go to the G+ sign sideways, and go to dropdown menu and commit
+
+# For every  file that is called README.md... github recognizes it and turns it into a rendered markdown file
